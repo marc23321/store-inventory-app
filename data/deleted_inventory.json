@@ -1,0 +1,21 @@
+[
+  {
+    "sku": "A4",
+    "name": "Sugar",
+    "quantity": 12,
+    "price": 12.0
+  },
+  {
+    "sku": "A4",
+    "name": "Sugar",
+    "quantity": 12,
+    "price": 12.0
+  },
+  {
+    "sku": "A5",
+    "name": "Pepper",
+    "quantity": 12,
+    "price": 12.0,
+    "deleted at": "2025-10-25 15:50:08"
+  }
+]

@@ -1,0 +1,32 @@
+{
+    "A1": {
+        "sku": "A1",
+        "name": "Coffee Beans",
+        "quantity": 10,
+        "price": 12.5
+    },
+    "B2": {
+        "sku": "B2",
+        "name": "Tea Bags",
+        "quantity": 20,
+        "price": 5.0
+    },
+    "C3": {
+        "sku": "C3",
+        "name": "Mugs",
+        "quantity": 12,
+        "price": 6.0
+    },
+    "A4": {
+        "sku": "A4",
+        "name": "Milk",
+        "quantity": 15,
+        "price": 36.0
+    },
+    "A5": {
+        "sku": "A5",
+        "name": "Sugar",
+        "quantity": 12,
+        "price": 54.0
+    }
+}
